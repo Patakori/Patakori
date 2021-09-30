@@ -1,5 +1,6 @@
-## Oii, Tudo bom? Espero que SIM!!! 😃  <br> <br> Me chamo Edilson Mahmed, Arquiteto e Urbanista por <br> formação, em busca do primeiro trabalho como Front End Jr.
-
+## Oii, Tudo bom? Espero que SIM!!! 😃 
+#### Me chamo Edilson Mahmed,sou  Arquiteto e Urbanista por <br> formação, em busca do primeiro trabalho como Front End Jr.
+##
 <div align="start">
   <a href="https://github.com/Patakori">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patakori&layout=compact&langs_count=7&theme=dracula"/>
