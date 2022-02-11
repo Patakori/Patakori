@@ -1,5 +1,5 @@
 ## Oii, Tudo bom? Espero que SIM!!! 😃 
-#### Sou Arquiteto e urbanista por formação, mas que agora busca seu primeiro cargo como <br> dev. Front End Jr em minha nova carreira na tecnologia.
+#### Sou Arquiteto e Urbanista por formação, mas agora sou estudante de Análise e Desenvolvimento de Sistemas que busca seu primeiro cargo como <br> dev. Front End Jr em minha nova carreira na tecnologia.
 Acredito que é possível juntar todas as soft skills adquiridas em experiências anteriores ao conhecimento técnico <br> de um desenvolvedor, trazendo uma melhor experiência de trabalho para a equipe e ao produto.
 ##
 <div align="start">
