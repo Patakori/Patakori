@@ -1,7 +1,7 @@
 ## Oii, Tudo bom? Espero que SIM!!! 😃 
-#### Arquiteto e Urbanista por formação, mas no momento estudo Análise e Desenvolvimento de Sistemas e trabalho como dev. Front End Jr.
+#### Arquiteto e Urbanista por formação, mas agora atuo como dev. Front End Jr.
 Acredito que é possível juntar todas as soft skills adquiridas em experiências anteriores ao conhecimento técnico de um desenvolvedor, trazendo uma melhor 
-experiência de trabalho para a equipe e ao produto
+experiência de resoluções de problemas melhorando o trabalho em equipe e agregando mais valor ao produto.
 ##
 <div align="start">
   <a href="https://github.com/Patakori">
