@@ -1,5 +1,5 @@
 ## Oii, Tudo bom? Espero que SIM!!! 😃 
-#### Arquiteto e Urbanista por formação, que mirgou para área Tech e agora atua como dev. Front End.
+#### Arquiteto e Urbanista por formação, que migrou para área Tech e agora atua como dev. Front End.
 Com experiência em JS | React.js | Next.js | Node.js.
 Acredito que é possível juntar todas as soft skills adquiridas em experiências anteriores ao conhecimento técnico de um desenvolvedor, trazendo uma melhor 
 experiência de resoluções de problemas melhorando o trabalho em equipe e agregando mais valor ao produto.
